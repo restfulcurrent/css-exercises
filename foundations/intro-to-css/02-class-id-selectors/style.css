@@ -9,6 +9,11 @@
     font-size: 36px;
 }
 
-.odd.medium-sized {
+.medium-sized {
     font-size: 24px;;
 }
+
+#greenie {
+    background-color: rgb(163, 194, 164);
+}
+
