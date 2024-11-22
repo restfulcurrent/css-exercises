@@ -3,3 +3,8 @@
     background-color: rgb(190, 154, 168);
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
 }
+
+#big-blue {
+    color:rgb(from rgb(14, 14, 197) r g b);
+    font-size: 36px;
+}
