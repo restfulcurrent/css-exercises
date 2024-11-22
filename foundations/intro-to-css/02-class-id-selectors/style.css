@@ -1,5 +1,5 @@
 /* Odd numbered elements */
-p {
+.odd {
     background-color: rgb(190, 154, 168);
     font-family: Verdana, 'DejaVu Sans', 'sans-serif';
 }
