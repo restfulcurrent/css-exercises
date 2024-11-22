@@ -6,3 +6,9 @@
 .two {
     background-color: hsl(52, 100%, 58%);
 }
+
+.one,
+.two {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
