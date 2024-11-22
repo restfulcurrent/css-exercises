@@ -2,3 +2,7 @@
     background-color: black;
     color: white;
 }
+
+.two {
+    background-color: hsl(52, 100%, 58%);
+}
